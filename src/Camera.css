@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.camera {
+    display: flex;
+    flex-direction: column;
+    z-index: 0;
+    width: min-content;
+}
+
+.camdisplay {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: fit-content;
+
+}
+
+.camdisplay video {
+    height: 100vh;
+    max-height: 100vh;
+    width: auto;
+}
+
+.cambutton {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 50px;
+    cursor: pointer;
+    z-index: 0;
+    background-color: rgb(165, 255, 0);
+    box-shadow: 0px 10px 10px -3px rgba(114, 169, 147, 0.5);
+
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.cambutton img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.bottom {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    z-index: 0;
+}
+
+.answer {
+    transition: 300ms;
+    height: 800px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: white;
+    overflow: hidden;
+    z-index: 999;
+}
+
+.answer img {
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.answertext {
+    padding: 2% 8%;
+}
+
+.wrapper {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.barswrapper {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.bar {
+    width: 30%;
+    height: 3px;
+    background-color: black;
+}
+
+.answertext a {
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    border:solid 2px rgb(165, 255, 0);
+    box-shadow: 0px 7px 7px -3px rgba(80, 103, 94, 0.2);
+    border-radius: 50px;
+    padding: 20px;
+}

@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.kentut{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(52, 52, 52);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

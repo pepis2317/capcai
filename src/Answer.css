@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.answer{
+    margin-top: -500;
+    height: 100vh;
+    width: auto;
+    overflow: hidden;
+    background-color: white
+}
+img{
+    height: 35vh;
+    width: 100%;
+    object-fit: cover;
+
+}

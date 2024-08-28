@@ -1,0 +1,161 @@
+[
+    {
+        "desc":" Nutrient-dense legume varieties like green beans or kidney beans. Packed with protein, fiber, and vitamins. A versatile culinary ingredient suitable for soups, salads, and various dishes."
+        ,"recipes":[
+            "https://www.foodnetwork.com/recipes/photos/best-bean-recipes",
+            "https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-cook-dried-beans"
+        ]
+        ,"titles":[
+            "Best beans recipes","How to cook dried beans"
+        ]
+    },
+    {
+        "desc":"Distinctively bitter vegetable, rich in nutrients and antioxidants. Commonly used in Asian cuisines for its unique flavor profile and potential health benefits due to its medicinal properties."
+        ,"recipes":[
+            "https://yummyaddiction.com/bitter-melon-recipes/",
+            "https://yummyaddiction.com/how-to-cook-bitter-melon/ "
+        ]
+        ,"titles":[
+            "24 Bitter melon recipes","How to prepare bitter melon"
+        ]
+    },
+    {
+        "desc":"Mild-flavored, elongated vegetable with high water content. Popular in Asian cuisines. Renowned for versatility in cooking and potential health benefits, aiding digestion and hydration."
+        ,"recipes":[
+            "https://www.thespruceeats.com/how-to-prepare-bottle-gourd-slaouia-2395014",
+            "https://mygoodfoodworld.com/bottle-gourd-recipe-lauki-ki-sabji-calabash/#:~:text=Bottle%20gourd%20is%20a%20delicious,and%20light%20on%20the%20tummy"
+        ]
+        ,"titles":[
+            "How to prepare bottle gourd","Comforting bottle gourd recipe"
+        ]
+    },
+    {
+        "desc":"Purple-hued vegetable with a slightly bitter taste. Common in Mediterranean cuisine and diverse in cooking applications, from grilling to roasting."
+        ,"recipes":[
+            "https://www.alphafoodie.com/how-to-cook-eggplant/",
+            "https://www.bonappetit.com/recipes/slideshow/eggplant-recipes"
+        ]
+        ,"titles":[
+            "How to prepare an eggplant","Eggcelent recipes"
+        ]
+    },
+    {
+        "desc":"Nutrient-dense cruciferous vegetable with a distinct appearance. High in vitamins, fiber, and antioxidants. Known for its potential health benefits and versatility in cooking methods like steaming or stir-frying."
+        ,"recipes":[
+            "https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-cook-broccoli ",
+            "https://www.allrecipes.com/recipe/13313/best-cream-of-broccoli-soup/",
+            "https://www.foodnetwork.com/recipes/photos/broccoli-recipes"
+        ]
+        ,"titles":[
+            "How to prepare broccoli","Best soup recipe","Best 25 brocolli recipes"
+        ]
+    },
+    {
+        "desc":"Leafy green or purple vegetable with a firm texture. Low in calories, high in vitamins and fiber. Used in various cuisines worldwide, both raw and cooked in dishes like coleslaw or sautéed."
+        ,"recipes":[
+            "https://www.bbcgoodfood.com/howto/guide/how-cook-cabbage ",
+            "https://insanelygoodrecipes.com/cabbage-salad-recipes/ ",
+            "https://www.bonappetit.com/test-kitchen/ingredients/slideshow/cabbage-recipes"
+        ]
+        ,"titles":[
+            "How to prepare cabbage"," Best cabbage salad recipe","Best salad recipes"
+        ]
+    },
+    {
+        "desc":"Colorful, crunchy vegetable available in various hues. Rich in vitamins and antioxidants. Adds flavor and texture to dishes, whether raw in salads or cooked in stir-fries."
+        ,"recipes":[
+            "https://www.bhg.com/recipes/how-to/cook-with-fruits-and-vegetables/how-to-cook-sweet-peppers/ ",
+            "https://www.tasteofhome.com/collection/bell-pepper-recipes/"
+        ]
+        ,"titles":[
+            "How to prepare bell peppers","Best bell peppers recipe"
+        ]
+    },
+    {
+        "desc":"Root vegetable with a vibrant orange color. High in beta-carotene, vitamins, and fiber. Versatile in cooking and widely used in salads, soups, and as a snack."
+        ,"recipes":[
+            "https://www.bhg.com/recipes/how-to/cook-with-fruits-and-vegetables/how-to-cook-carrots/ ",
+            "https://delish.com/cooking/g929/carrot-recipes/",
+            "https://sarahsbakestudio.com/the-great-big-list-of-carrot-dessert-recipes/"
+        ]
+        ,"titles":[
+            "How to prepare carrots","Best carrot recipes","Carrot dessert recipe"
+        ]
+    },
+    {
+        "desc":"Mild-flavored cruciferous vegetable. Versatile in cooking, often used as a low-carb alternative. High in vitamins, fiber, and antioxidants. Can be roasted, mashed, or eaten raw."
+        ,"recipes":[
+            "https://www.realsimple.com/how-to-cook-cauliflower-7100235",
+            "https://www.delish.com/cooking/recipe-ideas/a23514357/best-cauliflower-soup-recipe/",
+            "https://www.loveandlemons.com/cauliflower-recipes/"
+        ]
+        ,"titles":[
+            "How to prepare cauliflower","Best cauliflower soup","30 Best cauliflower recipes"
+        ]
+    },
+    {
+        "desc":"Cool, refreshing vegetable with high water content. Low in calories, hydrating, and rich in vitamins. Commonly used in salads, snacks, and beverages for its refreshing quality."
+        ,"recipes":[
+            "https://www.taste.com.au/quick-easy/articles/how-to-prepare-cucumber/m0ybv6rp",
+            "https://www.eatingwell.com/gallery/8065638/cucumber-salads-to-make-forever/ ",
+            "https://www.eatingwell.com/gallery/8054533/cucumber-recipes-to-make-forever/"
+        ]
+        ,"titles":[
+            "How to prepare cucumber","Best cucumber salad recipe","Best cucumber recipe"
+        ]
+    },
+    {
+        "desc":"Tropical fruit with orange flesh and black seeds. Rich in vitamins, enzymes, and antioxidants. Known for aiding digestion and offering various health benefits, including immune system support."
+        ,"recipes":[
+            "https://yummyaddiction.com/how-to-prepare-papaya/",
+            "https://www.foodnetwork.com/topics/papaya"
+        ]
+        ,"titles":[
+            "How to prepare Papaya","How to prepare Papaya "
+        ]
+    },
+    {
+        "desc":"Starchy tuber vegetable available in different varieties. Versatile in cooking, high in carbohydrates, vitamins, and minerals. Used in various cuisines worldwide for dishes like fries, mashed potatoes, or casseroles."
+        ,"recipes":[
+            "https://food52.com/blog/26773-how-to-cook-potatoes",
+            "https://www.delish.com/cooking/recipe-ideas/g3030/potato-recipes/",
+            "https://www.tastingtable.com/1313006/ways-eat-a-potato-for-dessert/ "
+        ]
+        ,"titles":[
+            "How to prepare potatoes","Best potato recipes","potato dessert recipe"
+        ]
+    },
+    {
+        "desc":"Orange-hued squash with a sweet flavor. High in vitamins, fiber, and antioxidants. Used in both sweet and savory dishes, such as pies, soups, and roasted dishes."
+        ,"recipes":[
+            "https://www.thespruceeats.com/pumpkin-preparation-and-recipes-3034526",
+            "https://www.delish.com/cooking/recipe-ideas/g646/savory-pumpkin-recipes/",
+            "https://www.delish.com/cooking/g720/beyond-pie-pumpkin-desserts/"
+        ]
+        ,"titles":[
+            "How to prepare pumpkin","Best savoury pumpkin dishes","Best pumpkin dessert"
+        ]
+    },
+    {
+        "desc":"White radish, also known as daikon, is a mild-flavored root vegetable. Crisp, white flesh with a peppery kick. Low in calories, high in vitamins, used raw in salads or pickled in various cuisines."
+        ,"recipes":[
+            "https://www.foodroots.co/blog-2/2020/8/3/a-daikon-how-to-guide",
+            "https://www.allrecipes.com/gallery/daikon-recipes/",
+            "https://www.justonecookbook.com/delicious-daikon-recipes/"
+        ]
+        ,"titles":[
+            "How to prepare daikon","Nutritious daiko recipe","Yummy daikon recipe"
+        ]
+    },
+    {
+        "desc":"Juicy, red fruit often mistaken for a vegetable. Versatile in cooking, rich in vitamins, antioxidants, and beneficial plant compounds. Widely used in various cuisines for sauces, salads, and as a key ingredient."
+        ,"recipes":[
+            "https://www.tomatodirt.com/tomato-recipes.html",
+            "https://www.loveandlemons.com/tomato-soup-recipe/",
+            "https://www.eatingwell.com/gallery/8055772/tomato-recipes-to-make-forever/"
+        ]
+        ,"titles":[
+            "How to prepare tomato","Tomato soup recipe","Best tomato recipe"
+        ]
+    }
+]
